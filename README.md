@@ -59,7 +59,7 @@ Building automation tools, crypto trading systems, and exploring DeFi protocols.
 
 ## 🌐 Connect With Me
 
-- X: https://x.com/only_dylan  
+- X: https://x.com/only__dylan  
 - GitHub: https://github.com/DylanSoBad  
 
 ---
