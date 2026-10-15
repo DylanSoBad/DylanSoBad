@@ -22,7 +22,7 @@
 - 🚀 I enjoy creating useful projects, solving problems, and improving step by step
 - 🌱 Currently focused on writing cleaner code and becoming a better developer every day
 - ⚡ I like simple, powerful, and practical software
-- 📫 Reach me on **X**: [@only__dylan](https://x.com/only__dylan)
+- 📫 Reach me on **X**: [@only__dylan](https://x.com/dylan_ngmi)
 
 ---
 
