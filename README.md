@@ -1,22 +1,20 @@
 <div align="center">
   <h1>D Y L A N</h1>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=100&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&lines=Software+Developer+%7C+Python+%26+Java;Building+Clean%2C+Scalable+%26+Practical+Systems;Focused+on+Backend+Architecture+%26+Problem+Solving;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=100&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&lines=Software+Developer+-+Python+and+Java;Building+Clean+Scalable+Practical+Systems;Focused+on+Backend+Architecture;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
+  </p>
 
-  <br/><br/>
-
-  <a href="https://github.com/DylanSoBad">
-    <img src="https://img.shields.io/badge/GitHub-DylanSoBad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/dylan_ngmi">
-    <img src="https://img.shields.io/badge/X-@dylan__ngmi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DylanSoBad&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+  <p align="center">
+    <a href="https://github.com/DylanSoBad">
+      <img src="https://img.shields.io/badge/GitHub-DylanSoBad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://x.com/dylan_ngmi">
+      <img src="https://img.shields.io/badge/X-@dylan__ngmi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylanSoBad&count_bg=%2338BDF8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views" height="28" />
+  </p>
 </div>
-
-<br/>
 
 ---
 
